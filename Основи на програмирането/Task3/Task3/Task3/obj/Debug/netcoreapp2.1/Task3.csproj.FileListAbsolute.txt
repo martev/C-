@@ -1,0 +1,11 @@
+D:\UNIBIT\Курсова работа\Task3\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.deps.json
+D:\UNIBIT\Курсова работа\Task3\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.runtimeconfig.json
+D:\UNIBIT\Курсова работа\Task3\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.runtimeconfig.dev.json
+D:\UNIBIT\Курсова работа\Task3\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.dll
+D:\UNIBIT\Курсова работа\Task3\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.pdb
+D:\UNIBIT\Курсова работа\Task3\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.csprojAssemblyReference.cache
+D:\UNIBIT\Курсова работа\Task3\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.csproj.CoreCompileInputs.cache
+D:\UNIBIT\Курсова работа\Task3\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.AssemblyInfoInputs.cache
+D:\UNIBIT\Курсова работа\Task3\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.AssemblyInfo.cs
+D:\UNIBIT\Курсова работа\Task3\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.dll
+D:\UNIBIT\Курсова работа\Task3\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.pdb
